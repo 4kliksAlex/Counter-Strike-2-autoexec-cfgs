@@ -8,7 +8,7 @@ Usage: Put these files in the `<Your CS2(CSGO) directory>\game\csgo\cfg\` or you
 
 # Design Philosophy
 
-All executions of `autoexec_...` files (exec `_AUTOEXEC/.../autoexec_...`) are done in `autoexec.cfg`.
+All executions of `autoexec_...` files (exec `_AUTOEXEC\...\autoexec_...`) are done in `autoexec.cfg`.
 
 ## File Managemenst
 
